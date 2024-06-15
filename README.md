@@ -21,4 +21,8 @@ _**Disclaimer**_: _All datasets and reports do not represent any company, instit
 - Database design (ER diagram)
 
 ![](ERD_1.png)
+
+Solution 1a     |  Solution 1b
+:-------------:|:--------------:
+![](sql_5.png) | ![](sql_6.png)
   
