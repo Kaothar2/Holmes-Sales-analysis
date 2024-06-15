@@ -17,7 +17,7 @@ _**Disclaimer**_: _All datasets and reports do not represent any company, instit
 ## Skills/ concepts demonstrated:
 - SQL Syntax and Queries ( select , Joins, Subqueries, Aggregate functions)
 - Data Manipulation ( Insert, Update and Delete statement)
-- Advanced SQL Techniques ( Stored procedures and Functions)
+- Advanced SQL Techniques ( Stored procedures and Functions, Views )
 - Database design (ER diagram)
 
 ![](ERD_1.png)
